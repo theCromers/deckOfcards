@@ -1,0 +1,4 @@
+C:\Users\kkrup\Documents\Visual Studio Projects\PG1\Homework 3\Cromer-Kayla_hw3-pt2\Cromer-Kayla_hw3-pt2\obj\Debug\netcoreapp3.1\Cromer-Kayla_hw3-pt2.csproj.AssemblyReference.cache
+C:\Users\kkrup\Documents\Visual Studio Projects\PG1\Homework 3\Cromer-Kayla_hw3-pt2\Cromer-Kayla_hw3-pt2\obj\Debug\netcoreapp3.1\Cromer-Kayla_hw3-pt2.AssemblyInfoInputs.cache
+C:\Users\kkrup\Documents\Visual Studio Projects\PG1\Homework 3\Cromer-Kayla_hw3-pt2\Cromer-Kayla_hw3-pt2\obj\Debug\netcoreapp3.1\Cromer-Kayla_hw3-pt2.AssemblyInfo.cs
+C:\Users\kkrup\Documents\Visual Studio Projects\PG1\Homework 3\Cromer-Kayla_hw3-pt2\Cromer-Kayla_hw3-pt2\obj\Debug\netcoreapp3.1\Cromer-Kayla_hw3-pt2.csproj.CoreCompileInputs.cache
